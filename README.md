@@ -35,6 +35,7 @@ Perform the draw.
 View the results.
 📂 Project Structure
 SECRETO-AMIGO/
+
 ├── index.html      # Main page
 
 ├── style.css       # Project styling
