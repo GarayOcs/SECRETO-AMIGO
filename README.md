@@ -1,63 +1,54 @@
-# SECRETO-AMIGO
+It's 10:58 PM, and honestly, I struggled more with GitHub than with the actual code.
+But hey, here we are. Let me introduce you to my project, Amigo Secreto, a simple yet functional app to organize secret santa draws. Because if I learned anything today, it’s that the problems aren’t in the code... they’re in the push.
 
-**Son las 10:58 PM, y honestamente batallé más con GitHub que haciendo el código.**  
-Pero bueno, aquí estamos. Te presento mi proyecto de **Amigo Secreto**, una aplicación sencilla pero funcional para organizar sorteos de amigo secreto. Porque si algo aprendí hoy, es que los problemas no son del código... son del _push_.
+📝 Project Description
+This is a simple web app that helps you organize secret santa draws without using paper slips or trusting someone who always spills the beans. 🤫
 
----
+What does it do?
+Lets you add friends.
+Performs a random draw and assigns each person a secret santa.
+Displays the results directly on the page (without anyone seeing who got who).
+Why did I create this?
+This project was born as a challenge to strengthen my skills in:
 
-## 📝 Descripción del Proyecto
+Programming logic.
+Using JavaScript, HTML, and CSS.
+My patience (thank you, GitHub).
+🛠️ Technologies Used
+HTML5: Project structure.
+CSS3: Basic styling with variables and flexbox.
+JavaScript: The magic behind the draw.
+Git and GitHub: Where I almost lost my sanity but eventually succeeded.
 
-Este proyecto es una aplicación web simple que te permite organizar sorteos de amigo secreto sin necesidad de usar papelitos ni confiar en alguien que siempre se chismea. 🤫
+🚀 How to Use the Project
+Clone the repository:
 
-### **¿Qué hace?**
-1. Te permite **agregar amigos**.
-2. Realiza un **sorteo aleatorio** y asigna a cada persona un amigo secreto.
-3. Muestra los resultados directamente en la página (sin que nadie pueda ver a quién le toca quién).
+bash
+Copiar
+Editar
+git clone https://github.com/GarayOcs/SECRETO-AMIGO.git
+Open the index.html file in your browser.
 
-### **¿Por qué lo hice?**
-Este proyecto nació como un reto para fortalecer mis habilidades en:
-- **Lógica de programación.**
-- Uso de **JavaScript**, **HTML**, y **CSS**.
-- Mi paciencia (gracias, GitHub).
+Use the interface to:
 
----
-
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5**: Estructura del proyecto.
-- **CSS3**: Estilos básicos con variables y flexbox.
-- **JavaScript**: Toda la magia detrás del sorteo.
-- **Git y GitHub**: Donde casi pierdo la cordura, pero logré subir esto.
-
----
-
-## 🚀 Cómo Usar el Proyecto
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/GarayOcs/SECRETO-AMIGO.git
-Abre el archivo index.html en tu navegador.
-
-Usa la interfaz para:
-Agregar nombres de amigos.
-Realizar el sorteo.
-Ver los resultados.
-
+Add friends' names.
+Perform the draw.
+View the results.
+📂 Project Structure
+bash
+Copiar
+Editar
 SECRETO-AMIGO/
-├── index.html      # Página principal
-├── style.css       # Estilos del proyecto
-├── app.js          # Lógica del sorteo
-└── README.md       # Este archivo épico
+├── index.html      # Main page
+├── style.css       # Project styling
+├── app.js          # Draw logic
+└── README.md       # This awesome file
+🧠 Lessons Learned
+Git isn’t hard, but it’s not easy either: When learning Git, remember to stock up on patience and snacks.
+Organization matters: Keeping your code organized is key (thank you, commits, for making it work, somehow).
+Persistence pays off: If you’re reading this, it means I finally made it. 🚀
+✨ Credits
+Project developed by GarayOcs while battling GitHub and late-night fatigue.
 
-🧠 Lecciones Aprendidas
-Git no es difícil, pero tampoco fácil: Cuando aprendas Git, recuerda guardar paciencia y snacks.
-Organización importa: Mantener el código ordenado es clave (gracias a los commits, más o menos lo logré).
-La persistencia paga: Si estás leyendo esto, es porque al final lo logré. 🚀
-
-✨ Créditos
-Proyecto desarrollado por GarayOcs mientras luchaba contra GitHub y el cansancio nocturno.
-
-📌 Nota Final
-Si estás batallando con tu propio proyecto, recuerda: Todo es difícil hasta que lo logras. Y si no, aquí estamos para ayudarte. 😎
-
-   
+📌 Final Note
+If you’re struggling with your own project, remember: Everything is hard until you make it happen. And if not, I’m here to help. 😎
